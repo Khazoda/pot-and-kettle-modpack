@@ -1,0 +1,13 @@
+name = "Pot and Kettle"
+author = "Khazoda"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8c77ac0d7f2b9a3b3e92188b3c791cef9384b9018579881f0724191c45060964"
+
+[versions]
+forge = "47.3.29"
+minecraft = "1.20.1"

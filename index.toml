@@ -1,0 +1,16 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "946467b566b9a6aefc65029b443bfcbf7cd72ac64bd2ea0c6fc47c6a36cae65b"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "7947c49fdbd79eff117aeaed431118e2dd317efb035cc806d7992b198789a59e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "e59b1afad3abcd2656cb958ee423fa36f6f6a5ec4acd7e2df47865fb9582da66"
+metafile = true
