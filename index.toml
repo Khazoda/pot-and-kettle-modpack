@@ -64,6 +64,26 @@ hash = "9c83708bda22ded3c24b2213eab579f3eadbe04fd31219e3831181fb2b7dfe38"
 metafile = true
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "5aded66fa72e7d3054f6ac495fe931cb727765cdf4ccff1e2ec148e7106c5353"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "b916a712a0697a6e62b2d2982f9ce1eeee081ab780465653e8c07d274a4b4826"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "9ec365a4521884704ec5bf750c8eb56eb23fbfcf9e77e67d7ae613feb60a3c30"
+metafile = true
+
+[[files]]
+file = "mods/enderio.pw.toml"
+hash = "4df3b20fbad1c5e9e05bcdb105cb7d14e97f28f551662854b68212eed3610355"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "a4d11e919132d573da75c2e2d06242921541cfdf94ebfafe976fbc5fe7fc2e29"
 metafile = true
@@ -74,6 +94,11 @@ hash = "c593551ad29c010a4985f4310c32707bfb8859ebe939d5e17c4cd919862f5555"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "bcc17c6a0e30b52c959c9536b1a6f3d9b963d3a9dead6cd3bcdfc19ba09752bf"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "946467b566b9a6aefc65029b443bfcbf7cd72ac64bd2ea0c6fc47c6a36cae65b"
 metafile = true
@@ -81,6 +106,31 @@ metafile = true
 [[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "4af3085e1acb71c9eed4a35981f14b542fb986bf8a4afa2fa6f02e9e86117227"
+metafile = true
+
+[[files]]
+file = "mods/little-logistics.pw.toml"
+hash = "9dcdb1f7ccdff95be4cf8eb235f42af8eb4abf6ad555e44fdbad923823f2c676"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "943bb204250ec8ab2259000932a14a6266c8a4e720f90236c95d45ca4d5a1ebe"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "ab4cb8adc490899c37f63b8dcae74e5f1daaacdc2da3951611b5460dc15e3070"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "39f4971b06139614f03993ffc73e3a1d39e061813690eb1edffe2215c148ffa7"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "2ec07049cb754682196b51befb940b18b0dbaa24323b54e16f6eb1781680bd80"
 metafile = true
 
 [[files]]
