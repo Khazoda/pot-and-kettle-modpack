@@ -94,6 +94,11 @@ hash = "2a4e32365b962f7857d6003af7abee398a92919a5b3ddcd2a51ab9359b80865a"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "86d71d293a0832fb88adf6c3ea4ce9d51e6cad258bb6c2a9e51476cb0c1bcd5c"
+metafile = true
+
+[[files]]
 file = "mods/enderio.pw.toml"
 hash = "4df3b20fbad1c5e9e05bcdb105cb7d14e97f28f551662854b68212eed3610355"
 metafile = true
@@ -111,6 +116,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "bcc17c6a0e30b52c959c9536b1a6f3d9b963d3a9dead6cd3bcdfc19ba09752bf"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "2a4f28e582d8bb538efaeb0faa5a8592f44b2e90dd192af58852f45aa7be8be8"
 metafile = true
 
 [[files]]
@@ -146,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "39f4971b06139614f03993ffc73e3a1d39e061813690eb1edffe2215c148ffa7"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "0fb014967acd6c2724313beefa286a1b72ed24a285377add8593a506fa73c30c"
 metafile = true
 
 [[files]]
