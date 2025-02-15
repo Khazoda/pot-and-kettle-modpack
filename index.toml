@@ -114,6 +114,11 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "e5a6aaa216885d6f60a4184e7052e365cc4482618449ee769b9652429a2de7e3"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "b916a712a0697a6e62b2d2982f9ce1eeee081ab780465653e8c07d274a4b4826"
 metafile = true
@@ -204,6 +209,11 @@ hash = "4af3085e1acb71c9eed4a35981f14b542fb986bf8a4afa2fa6f02e9e86117227"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "d3ff93cfc3c3e3d2e805ababa25afb90cc46ff6bd90579e697bab3ff5f8e4d31"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
 metafile = true
@@ -221,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "6f62e03f8daa855705f2a95c717f691835f288189637fee15c188c4bb50180ae"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "dd308454a6708e915735523e3ccbf6be4893ff9c7ca737d2f9ccf745fffd6835"
 metafile = true
 
 [[files]]
@@ -301,6 +316,16 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "4b156e5231ebc8aa2ca733dbd029d00be50d08fc219d60022020037b1c21e62f"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "63ca101d88fe4780c0ca6c5091d92d15fe678b89e7859b179b7dab2829222921"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "2bf1f46465f3a9650a62eb30c0608a566c1ad56e256bdfa378d5fca0e6245f42"
 metafile = true
 
 [[files]]
@@ -391,6 +416,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "e59b1afad3abcd2656cb958ee423fa36f6f6a5ec4acd7e2df47865fb9582da66"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "3664bd4082d2852e252fcf094f0d82f4e20b3adb3d9f894c46be6a316e397971"
 metafile = true
 
 [[files]]
