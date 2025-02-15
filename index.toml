@@ -64,6 +64,16 @@ hash = "9c83708bda22ded3c24b2213eab579f3eadbe04fd31219e3831181fb2b7dfe38"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "0700d17f36cd6b256bc65d30c79068d2627faacc7d6a601140445740c8960743"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "5aded66fa72e7d3054f6ac495fe931cb727765cdf4ccff1e2ec148e7106c5353"
 metafile = true
@@ -76,6 +86,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "9ec365a4521884704ec5bf750c8eb56eb23fbfcf9e77e67d7ae613feb60a3c30"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "2a4e32365b962f7857d6003af7abee398a92919a5b3ddcd2a51ab9359b80865a"
 metafile = true
 
 [[files]]
@@ -121,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "ab4cb8adc490899c37f63b8dcae74e5f1daaacdc2da3951611b5460dc15e3070"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "5f5ee7f47eb5f9b136ad86085a97c742b3a3365524f26cc6477fa44d6d4c9381"
 metafile = true
 
 [[files]]
