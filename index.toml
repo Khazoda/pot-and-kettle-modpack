@@ -1,8 +1,86 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/BuildRelease.ps1"
+hash = "8035f8eea9ba640224ae97450bda556eef98c9c37789ef171e7e885ccbaeef5a"
+
+[[files]]
+file = ".vscode/BuildRelease.sh"
+hash = "a208b4e64f8e37b31cf46b7aa64c1c87b453624dc24ecc7651f1f494113806aa"
+
+[[files]]
+file = "global_packs/required_resources/banner-pattern-clarity.pw.toml"
+hash = "6f18f324a44c97564dcf68b66c774c3ea8bc37c73bef4098162e5deb1e1bb3ab"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/better-flame-particles.pw.toml"
+hash = "258c5930590083efc970b0aada275d8e3d19d26863a60baee63349d355d8359a"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/clean-connected-glass.pw.toml"
+hash = "d1a5423aa3660781676710f718384aa91c9217de0c8b3f6aa39fbb838b9626d1"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/fresh-animations.pw.toml"
+hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/os-colorful-cobblestone.pw.toml"
+hash = "f10eaac17b45ddb46b7ed9c3aaef203519c11ee8cac8cd39d2a924c4f81d56db"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/os-colorful-grasses.pw.toml"
+hash = "0fdedbbdcbf9773c8b53576828e2013219f581512f9cb2eb47c71bbfe0145f45"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/os-shulkers.pw.toml"
+hash = "fa74d9a629d8cd6193babed922bfd7faf11b65cbfb66469c6c26d9f85afd43da"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/overgrown-moss-carpet.pw.toml"
+hash = "681459e53e122f4eccffdf5e4e111263b632265ee6fa027a83796abc8f37268e"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/simple-grass-flowers.pw.toml"
+hash = "b3a4b2c80fdf07113a637490be6a2e03171eee549bfa9d3bd0e982e19412046e"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/terracotta-titlescreen.pw.toml"
+hash = "5bc5b664b9782c701f063748c9796e826930e17c07b66ab6f0079088fe3b51b7"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/xalis-enhanced-jungle-wood.pw.toml"
+hash = "9c83708bda22ded3c24b2213eab579f3eadbe04fd31219e3831181fb2b7dfe38"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "a4d11e919132d573da75c2e2d06242921541cfdf94ebfafe976fbc5fe7fc2e29"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "c593551ad29c010a4985f4310c32707bfb8859ebe939d5e17c4cd919862f5555"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "946467b566b9a6aefc65029b443bfcbf7cd72ac64bd2ea0c6fc47c6a36cae65b"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "4af3085e1acb71c9eed4a35981f14b542fb986bf8a4afa2fa6f02e9e86117227"
 metafile = true
 
 [[files]]
@@ -14,3 +92,7 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "e59b1afad3abcd2656cb958ee423fa36f6f6a5ec4acd7e2df47865fb9582da66"
 metafile = true
+
+[[files]]
+file = "package.json"
+hash = "3cffa3f338a72948d4e69041b335635b30942169f21fd26bc3f1894e3f389594"
