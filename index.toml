@@ -134,6 +134,11 @@ hash = "4af3085e1acb71c9eed4a35981f14b542fb986bf8a4afa2fa6f02e9e86117227"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "b80222f00e93c0f8ad0491c1b94527f054fb9ec2588bc682766b84fd3676efdf"
+metafile = true
+
+[[files]]
 file = "mods/little-logistics.pw.toml"
 hash = "9dcdb1f7ccdff95be4cf8eb235f42af8eb4abf6ad555e44fdbad923823f2c676"
 metafile = true
@@ -181,6 +186,16 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "7947c49fdbd79eff117aeaed431118e2dd317efb035cc806d7992b198789a59e"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "50f3577395fda7bbe951dc6ffe10cc9a8d1747996ab384e96183b0a89ab1329b"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "5cc3bf9864a2b91f323a919182b7b8d5480fb25d84f25aa14c0080fd59b2e41b"
 metafile = true
 
 [[files]]
