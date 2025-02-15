@@ -174,6 +174,16 @@ hash = "7947c49fdbd79eff117aeaed431118e2dd317efb035cc806d7992b198789a59e"
 metafile = true
 
 [[files]]
+file = "mods/thermal-cultivation.pw.toml"
+hash = "0ca6f7c7a736b318e4165e4954e8bd39b183c45965bd596c8f1a2f948f7222e9"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "5077218f5a137152465214a9a35544a617902a50145055fd4bcee4121462c57b"
+metafile = true
+
+[[files]]
 file = "mods/thermal-expansion.pw.toml"
 hash = "ea3ab41c8e1346c6b78afef0ba8a00b3409705b2eecae716883882f12956d90d"
 metafile = true
@@ -181,6 +191,21 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
 hash = "1fcb1bf91f4979cce47e56392cf9e3d30806bc0ff8aedc92b461272ecac8f8ca"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "46a13c3a5f47b1f55bb6d474d9986c75c0e25e60737f325d3699c63eca241c3b"
+metafile = true
+
+[[files]]
+file = "mods/thermal-integration.pw.toml"
+hash = "5bc578f409819105cd718ac6d13916d7984a2e4a110fe3a6585befa25d792077"
+metafile = true
+
+[[files]]
+file = "mods/thermal-locomotion.pw.toml"
+hash = "f585401f2abc481550e0cb27d4abf85e78fe99237ff4864126f171b17a884d9f"
 metafile = true
 
 [[files]]
