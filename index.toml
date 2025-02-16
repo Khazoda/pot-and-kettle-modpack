@@ -74,6 +74,11 @@ hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
 metafile = true
 
 [[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "4cd6809fbe7df73d6527e5d27f7a2658f21d32041bbb668d5243816990736945"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "9f1ffc593f5b6369763f380b97efadf53acffdd03adebe49b038fcfa9fb59b3a"
 metafile = true
@@ -116,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "5aded66fa72e7d3054f6ac495fe931cb727765cdf4ccff1e2ec148e7106c5353"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "a388f4afe890e268a739cf598b68859ca3d86506a3fa3e46c17e4aa63debd309"
 metafile = true
 
 [[files]]
@@ -216,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "c593551ad29c010a4985f4310c32707bfb8859ebe939d5e17c4cd919862f5555"
+metafile = true
+
+[[files]]
+file = "mods/explorations.pw.toml"
+hash = "4f483e1ec91cc7bec8e3c003fc8c1c1c75e36cc96d825e893d87f59d3548fb9d"
 metafile = true
 
 [[files]]
@@ -506,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "09d7ad3d0ff34748dcfcc97ba0120d214eedd10ba8a64179cfb428ed790c186b"
+metafile = true
+
+[[files]]
+file = "mods/villages-and-pillages.pw.toml"
+hash = "0d981a7651d62ba0c7c65ab4b65e14214b841bd5e841f3cd2d3fb483c2d8b0c8"
 metafile = true
 
 [[files]]
