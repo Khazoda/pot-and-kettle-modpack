@@ -1,0 +1,13 @@
+name = "Create: Food"
+filename = "create-food-1.20.1-1.1.8-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4HnO3el1/versions/oLRUzVT7/create-food-1.20.1-1.1.8-forge.jar"
+hash-format = "sha1"
+hash = "9d54bc65e6e0a48a79854f2b70375fa0e5c5823a"
+
+[update]
+[update.modrinth]
+mod-id = "4HnO3el1"
+version = "oLRUzVT7"
