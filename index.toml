@@ -17,6 +17,14 @@ file = "config/defaultoptions/extra/config/quark-common.toml"
 hash = "7fab4883b582733728773aa049de0e995782111bb7e06e278f12613aa78a0c4f"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "989286cdc75301119c2a3c95da23172fc96bbf82f33bb6fc704648060c37584d"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "f93f96c459120ccdfdb90c3e27b6bc7940c754da20716f18718144d27d5ba35e"
+
+[[files]]
 file = "global_packs/required_resources/banner-pattern-clarity.pw.toml"
 hash = "6f18f324a44c97564dcf68b66c774c3ea8bc37c73bef4098162e5deb1e1bb3ab"
 metafile = true
@@ -172,6 +180,11 @@ hash = "5aded66fa72e7d3054f6ac495fe931cb727765cdf4ccff1e2ec148e7106c5353"
 metafile = true
 
 [[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "4f25f116d1264b752ac1f14e6f870b68b6e31345477b9bc9ab5cb5a3c0812bfa"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "15f70ccb7c7b0ff27ec791788d24de00fc6f6715311644b0fe374f006c9f230e"
 metafile = true
@@ -242,6 +255,11 @@ hash = "e5bef1d75ad8fc25274295fdb1589eea7894270ea27718dba4030fa30455324f"
 metafile = true
 
 [[files]]
+file = "mods/create-deep-dark.pw.toml"
+hash = "f91e96b3c7df89ff76df066a63c7a67ec591693763c4491e1aa31c22656ba9d7"
+metafile = true
+
+[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "0053ef8e3e37e5769df2c9990d55b25628b3c8c6c8249a091761d30e77dc9eb6"
 metafile = true
@@ -289,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
 hash = "4bed32e7d4f2f5a3fd7242e01a4e76de84b85ddaeea913bcf5944148d935c851"
+metafile = true
+
+[[files]]
+file = "mods/cucumber.pw.toml"
+hash = "61ef418c61be9d970ae54611991f1ae580a22d20de0829305db74dc0ccc37122"
 metafile = true
 
 [[files]]
@@ -384,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/fast-paintings.pw.toml"
 hash = "c1f384e413720c59bf548e1222bd79568870f6a0bd79ce139d0a28dc050799ac"
+metafile = true
+
+[[files]]
+file = "mods/fastboot.pw.toml"
+hash = "764d9c626b9e57985bd5aa3423d748d808f23cc80ebbd40a950531dc4a7c957e"
 metafile = true
 
 [[files]]
@@ -547,6 +575,11 @@ hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
 metafile = true
 
 [[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "d73acb6811e7df8bc10c901d8be8326d72080af176af3fed4f4f51ed0c9fd1df"
+metafile = true
+
+[[files]]
 file = "mods/mystical-oak-tree.pw.toml"
 hash = "115b8a240e0fa364ba3aa143e173be53442275dc3c38c85eea1d6a02557b0c77"
 metafile = true
@@ -597,6 +630,16 @@ hash = "39f4971b06139614f03993ffc73e3a1d39e061813690eb1edffe2215c148ffa7"
 metafile = true
 
 [[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "e5a1999432321e1d017f5d7fbdc6701ec62077c24f71cca3cc82d8d92c49f6b7"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "7e67b31ffb950dac821d0992f6951e11c8b3887cc4b2c3324639862de7d9a8c6"
+metafile = true
+
+[[files]]
 file = "mods/pig-pen-cipher.pw.toml"
 hash = "86d1f26a7ae6210d216a1af25759b07986f71bf6deeed02b4ce651204502773c"
 metafile = true
@@ -629,6 +672,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "2bf1f46465f3a9650a62eb30c0608a566c1ad56e256bdfa378d5fca0e6245f42"
+metafile = true
+
+[[files]]
+file = "mods/railcraft-reborn.pw.toml"
+hash = "92023aa2c87bec70ae04a2d9867a66fff6728e720b740724f63867455144cefa"
 metafile = true
 
 [[files]]
