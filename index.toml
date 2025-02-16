@@ -74,6 +74,11 @@ hash = "4e27b10cc8ada0473b40106d15d72504f8da2511c6e7ee1f60b08948d33cd725"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "6694b75c65ee2ba26b245c308305af529f5d4b5e3e3f7e9e37d48365707a7f32"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
 metafile = true
@@ -109,6 +114,11 @@ hash = "ecdd4372e076170c6b3bc4665dfdc5dac60292aaac013c7f95305b43e8916495"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "0b50aa5e55bf2bea86e660f15167e96e2045ba3e355cbfad6006a221b1ad0a3e"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "409ee0db16367194efb60ab30d97de7d0d952aae941c74ee4082b70b88ffb6dd"
 metafile = true
@@ -119,8 +129,18 @@ hash = "8a9fe70585a94eba42195c1671a33a6603cd6a2645d37384da7de14e7f1fccff"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "7df217b7efc8732751ed1bd0fbd167ea3a75ecca05a92d76b14e6c614236cb57"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "45bfe44cb3208de7ce385b6a3e98251e7423c5aac8ebec9c13c752b75661d793"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "40bab89c8030327eba75a6fe4350d6ac883d4b168a8171d4c0ca3a416efbd318"
 metafile = true
 
 [[files]]
@@ -164,6 +184,11 @@ hash = "c8dad6abaa841e4283e2ab9b618c75b26e6b5cdb86c733ed1adbeac4835e6246"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "f7e1c7d61e9d967077347836cec14499538ee077303b2ce266a3cb75e4237b88"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "26ac5097839dfbf2f567e8e441a7149d7cccbe3456449e904fb75614a3789bc8"
 metafile = true
@@ -174,8 +199,23 @@ hash = "e5bef1d75ad8fc25274295fdb1589eea7894270ea27718dba4030fa30455324f"
 metafile = true
 
 [[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "0053ef8e3e37e5769df2c9990d55b25628b3c8c6c8249a091761d30e77dc9eb6"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "13e39f39d5fb2b905a8d83882cdb7036aa077fef3ccf0025296fc17a3f270944"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "85c58f1343f94ffbf510922ada6b2d3ff9ca323eb98eaeeff2237a5d5e342d87"
+metafile = true
+
+[[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "d2c5d1167a28749c72b2921fcee1959635e2887c6e2f9996d8226a261e5fd641"
 metafile = true
 
 [[files]]
@@ -199,8 +239,18 @@ hash = "d68a785913f7c620440674dd53c69f2985f7875182f34613c335007a7edb443a"
 metafile = true
 
 [[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "4bed32e7d4f2f5a3fd7242e01a4e76de84b85ddaeea913bcf5944148d935c851"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "9ec365a4521884704ec5bf750c8eb56eb23fbfcf9e77e67d7ae613feb60a3c30"
+metafile = true
+
+[[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "0448ff51462480e146c264fcbbbc1e39867ab5c4ffeaded0f79962d145409a77"
 metafile = true
 
 [[files]]
@@ -246,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/explorations.pw.toml"
 hash = "4f483e1ec91cc7bec8e3c003fc8c1c1c75e36cc96d825e893d87f59d3548fb9d"
+metafile = true
+
+[[files]]
+file = "mods/extended-cogwheels.pw.toml"
+hash = "5814e323ba3c6b98725bf1545844dcea2be9063fe514d1f604a1bd7fdd230daa"
 metafile = true
 
 [[files]]
@@ -314,8 +369,18 @@ hash = "b80222f00e93c0f8ad0491c1b94527f054fb9ec2588bc682766b84fd3676efdf"
 metafile = true
 
 [[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "3b81ebee6bc906cafb94a30b77583b865c1a88ad4bdfb0e9fb3555c9577f136a"
+metafile = true
+
+[[files]]
 file = "mods/inventory-tweaks-refoxed.pw.toml"
 hash = "c98d3e9c6b73e219b7e28ac2f60913af00158b43f6afb27752307ad6d0b94481"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "1be09e2d67de63b59eb69605c7e76b7567f80f1e039b0c27cfe0a7a4171e92af"
 metafile = true
 
 [[files]]
@@ -341,6 +406,21 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "ee707f80f7f3bc8162719f23245ec51e8ecd732eaf75e11d1a6b42d6a83be2db"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "2944a9920149f6f449987bb9480d825b4ba2a39e0b5fcdbd00afa522d9bf24e8"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "fed50fcf6164c0c85592ce82cb1f77732ec545d8726e77a12d5f4517407f2d07"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "1ca7152ae253fc898acf6b17a668fa1e118da70edbdfc55f4cd03f1f32e6815c"
 metafile = true
 
 [[files]]
@@ -389,6 +469,11 @@ hash = "da8adfd1a2ab5e050fc182940c9bf972cbcafdbb12e22fe8274ccf47c71e9899"
 metafile = true
 
 [[files]]
+file = "mods/nethers-delight.pw.toml"
+hash = "81be2b2e43c7cf127cf5b67e1dae3a5d7788732442cae1480cd7cd423043197c"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
@@ -421,6 +506,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "39f4971b06139614f03993ffc73e3a1d39e061813690eb1edffe2215c148ffa7"
+metafile = true
+
+[[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "86d1f26a7ae6210d216a1af25759b07986f71bf6deeed02b4ce651204502773c"
 metafile = true
 
 [[files]]
@@ -484,6 +574,11 @@ hash = "7947c49fdbd79eff117aeaed431118e2dd317efb035cc806d7992b198789a59e"
 metafile = true
 
 [[files]]
+file = "mods/runelic.pw.toml"
+hash = "61ce4ba81f3903ab9d2c27f7fa073f800f9480d910d3022e1701bfcdbb0ad6dd"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
@@ -501,6 +596,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "5cc3bf9864a2b91f323a919182b7b8d5480fb25d84f25aa14c0080fd59b2e41b"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "eea01aea227f98f9e05a6c0d7c14d851770b69f872a6eef2eee8be3ed5caed45"
 metafile = true
 
 [[files]]
@@ -546,6 +646,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-locomotion.pw.toml"
 hash = "f585401f2abc481550e0cb27d4abf85e78fe99237ff4864126f171b17a884d9f"
+metafile = true
+
+[[files]]
+file = "mods/transmog.pw.toml"
+hash = "8e4b77f9c0d67fb1279104d15966e847e983618c9263fbb51dec91f3768e5335"
 metafile = true
 
 [[files]]
