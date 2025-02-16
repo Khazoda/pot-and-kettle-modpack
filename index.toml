@@ -575,11 +575,6 @@ hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
 metafile = true
 
 [[files]]
-file = "mods/mystical-agriculture.pw.toml"
-hash = "d73acb6811e7df8bc10c901d8be8326d72080af176af3fed4f4f51ed0c9fd1df"
-metafile = true
-
-[[files]]
 file = "mods/mystical-oak-tree.pw.toml"
 hash = "115b8a240e0fa364ba3aa143e173be53442275dc3c38c85eea1d6a02557b0c77"
 metafile = true
