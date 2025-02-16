@@ -69,6 +69,16 @@ hash = "118326466df45a03c49159bf69f0164a103764a7575bc218c6bd40e24b181023"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "9f1ffc593f5b6369763f380b97efadf53acffdd03adebe49b038fcfa9fb59b3a"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
@@ -109,8 +119,28 @@ hash = "fb8e035187556a9406507176782dd251769d8cdf14e9712b508bcc47ff6904d9"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "1ba38e1558b064ee70588d7b61f7fe208b233af999b13c0cf03a11b628d05cb0"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "251890ec4b0736e21d076a565b4c7a4d7d2b4ca46c45a388a662fd55f4f1c8db"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "c8dad6abaa841e4283e2ab9b618c75b26e6b5cdb86c733ed1adbeac4835e6246"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "26ac5097839dfbf2f567e8e441a7149d7cccbe3456449e904fb75614a3789bc8"
 metafile = true
 
 [[files]]
@@ -124,8 +154,28 @@ hash = "b916a712a0697a6e62b2d2982f9ce1eeee081ab780465653e8c07d274a4b4826"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "5be9bf84ab292bbb6c872a3329b5464e3352a21a377c8fe0e4301074d889b3fe"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "d68a785913f7c620440674dd53c69f2985f7875182f34613c335007a7edb443a"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "9ec365a4521884704ec5bf750c8eb56eb23fbfcf9e77e67d7ae613feb60a3c30"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "dbda6a7e89922dfc87f81d8f4025c03c5ea1b0d5c3c8de8de56a9b519f90c063"
+metafile = true
+
+[[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "a35081d2f99c55a7a8f25a718b142b54c7c9872e5f4f733444958e891f1ad832"
 metafile = true
 
 [[files]]
@@ -244,6 +294,11 @@ hash = "9dcdb1f7ccdff95be4cf8eb235f42af8eb4abf6ad555e44fdbad923823f2c676"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "ee707f80f7f3bc8162719f23245ec51e8ecd732eaf75e11d1a6b42d6a83be2db"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "943bb204250ec8ab2259000932a14a6266c8a4e720f90236c95d45ca4d5a1ebe"
 metafile = true
@@ -266,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "17314804c37c3d68df27f9a68985dbba5a5382248c4a7ab1437ac644ad69638a"
+metafile = true
+
+[[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "4593146a6bb3444a60ad4078033d51777bd5353e3c18b7b5b9886c281e7dabaf"
 metafile = true
 
 [[files]]
@@ -301,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "8f131eb0d7dbf2f1fd6d417a6d7793795c625e18bb0c49ce1a97f1f2a110d094"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "6ab758c713990c0aa74b4d5bfc59847aab681219b38e213635f341dbab5b965e"
 metafile = true
 
 [[files]]
@@ -349,6 +414,16 @@ hash = "2ec07049cb754682196b51befb940b18b0dbaa24323b54e16f6eb1781680bd80"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "92b0bc142a7cbc4af73ec922b72e9ab6f7b41cedc35a7dbbd49bbc3d66f88fcc"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "33c1012df4c3267ee9e70509001739908b2f2c72ae0b2728a750b3516644aa2c"
+metafile = true
+
+[[files]]
 file = "mods/ribbits.pw.toml"
 hash = "7947c49fdbd79eff117aeaed431118e2dd317efb035cc806d7992b198789a59e"
 metafile = true
@@ -366,6 +441,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "5cc3bf9864a2b91f323a919182b7b8d5480fb25d84f25aa14c0080fd59b2e41b"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
 metafile = true
 
 [[files]]
@@ -401,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-locomotion.pw.toml"
 hash = "f585401f2abc481550e0cb27d4abf85e78fe99237ff4864126f171b17a884d9f"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "bf169dd7307af346fd880833a4adc23a4dfb8051e9703c8519f3a105f4a466b9"
 metafile = true
 
 [[files]]
