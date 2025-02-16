@@ -149,6 +149,11 @@ hash = "26ac5097839dfbf2f567e8e441a7149d7cccbe3456449e904fb75614a3789bc8"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "e5bef1d75ad8fc25274295fdb1589eea7894270ea27718dba4030fa30455324f"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "e5a6aaa216885d6f60a4184e7052e365cc4482618449ee769b9652429a2de7e3"
 metafile = true
@@ -286,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "6f62e03f8daa855705f2a95c717f691835f288189637fee15c188c4bb50180ae"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
 metafile = true
 
 [[files]]
@@ -439,6 +449,11 @@ hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "264de662a3aa18ddd73d3d883c4a04a7242e0a933aa84b672e1483ccad49f786"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "50f3577395fda7bbe951dc6ffe10cc9a8d1747996ab384e96183b0a89ab1329b"
 metafile = true
@@ -486,6 +501,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-locomotion.pw.toml"
 hash = "f585401f2abc481550e0cb27d4abf85e78fe99237ff4864126f171b17a884d9f"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "09d7ad3d0ff34748dcfcc97ba0120d214eedd10ba8a64179cfb428ed790c186b"
 metafile = true
 
 [[files]]
