@@ -254,6 +254,11 @@ hash = "0448ff51462480e146c264fcbbbc1e39867ab5c4ffeaded0f79962d145409a77"
 metafile = true
 
 [[files]]
+file = "mods/ding.pw.toml"
+hash = "d3a96f1019fcf89e138d3039329a2836257b030610028313d1574b5a0cd2930f"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "dbda6a7e89922dfc87f81d8f4025c03c5ea1b0d5c3c8de8de56a9b519f90c063"
 metafile = true
@@ -356,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "d3ff93cfc3c3e3d2e805ababa25afb90cc46ff6bd90579e697bab3ff5f8e4d31"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "969dcb8dbf6fc71ff675e0aff6f40b46ee7eb160462d9f57fc26a271bdcfe087"
 metafile = true
 
 [[files]]
