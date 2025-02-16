@@ -9,6 +9,14 @@ file = ".vscode/BuildRelease.sh"
 hash = "a208b4e64f8e37b31cf46b7aa64c1c87b453624dc24ecc7651f1f494113806aa"
 
 [[files]]
+file = "config/defaultoptions/extra/config/ascended_quark-common.toml"
+hash = "1910dd977b26f2bf2542475108dbd889620cd47747b3da0f8f0e8955938d9a0e"
+
+[[files]]
+file = "config/defaultoptions/extra/config/quark-common.toml"
+hash = "7fab4883b582733728773aa049de0e995782111bb7e06e278f12613aa78a0c4f"
+
+[[files]]
 file = "global_packs/required_resources/banner-pattern-clarity.pw.toml"
 hash = "6f18f324a44c97564dcf68b66c774c3ea8bc37c73bef4098162e5deb1e1bb3ab"
 metafile = true
@@ -294,6 +302,11 @@ hash = "0448ff51462480e146c264fcbbbc1e39867ab5c4ffeaded0f79962d145409a77"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "91c2538d726a12623122d1a2945a6ad3d2d5b290d43c72149f21af560e8465eb"
+metafile = true
+
+[[files]]
 file = "mods/ding.pw.toml"
 hash = "d3a96f1019fcf89e138d3039329a2836257b030610028313d1574b5a0cd2930f"
 metafile = true
@@ -421,11 +434,6 @@ metafile = true
 [[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "969dcb8dbf6fc71ff675e0aff6f40b46ee7eb160462d9f57fc26a271bdcfe087"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
 metafile = true
 
 [[files]]
