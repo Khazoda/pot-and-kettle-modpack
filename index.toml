@@ -104,6 +104,11 @@ hash = "409ee0db16367194efb60ab30d97de7d0d952aae941c74ee4082b70b88ffb6dd"
 metafile = true
 
 [[files]]
+file = "mods/basicweapons.pw.toml"
+hash = "8a9fe70585a94eba42195c1671a33a6603cd6a2645d37384da7de14e7f1fccff"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "45bfe44cb3208de7ce385b6a3e98251e7423c5aac8ebec9c13c752b75661d793"
 metafile = true
