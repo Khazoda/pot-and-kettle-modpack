@@ -9,4 +9,5 @@
 /releases
 /releases/*
 /desktop.ini
+/package.json
 
