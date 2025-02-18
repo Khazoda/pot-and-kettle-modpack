@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "6694b75c65ee2ba26b245c308305af529f5d4b5e3e3f7e9e37d48365707a7f32"
+hash = "9218f4af5213f4b0b33fc72d8f30728c7ff973e61867baf009114d0e28a7dc89"
 metafile = true
 
 [[files]]
@@ -833,7 +833,3 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "3664bd4082d2852e252fcf094f0d82f4e20b3adb3d9f894c46be6a316e397971"
 metafile = true
-
-[[files]]
-file = "package.json"
-hash = "3cffa3f338a72948d4e69041b335635b30942169f21fd26bc3f1894e3f389594"
