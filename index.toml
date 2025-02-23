@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-ultimate-factory.pw.toml"
-hash = "a1ad8486c87a12714d94106ce1764aed24f4945c6ab8aa2a80e080854764c4ea"
+hash = "357de0efc4009694bb5a8a717a7a6b871cc78177c5703785ef720d62b3234dd1"
 metafile = true
 
 [[files]]
