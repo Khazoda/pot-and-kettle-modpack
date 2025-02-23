@@ -1,12 +1,12 @@
 name = "Pot and Kettle"
 author = "Khazoda"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f1d8e178e46e127d7fb5b341cf191913a11ed1a4c4460269af51571829ff7507"
+hash = "02071179ae8f3c23804904d3c254de283cde8df3a5682c5d2701414af39b292e"
 
 [versions]
 forge = "47.3.29"
